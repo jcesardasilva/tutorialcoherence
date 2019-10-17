@@ -52,7 +52,8 @@ Dependencies
 * numpy
 * matplotlib
 * scikit-image
+* scipy
 
 If you do not have such packages installed, I recommend the installation via pip install:
 
-pip3 install --user numpy, ipython, matplotlib, scikit-image
+pip3 install --user numpy, ipython, matplotlib, scikit-image, scipy
