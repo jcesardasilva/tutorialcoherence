@@ -8,12 +8,12 @@ The present notebooks are intended for educational reasons only. They are not be
 but keep been gradually improved. Apologies for possible mistakes and missing 
 references. 
 
-There three notebooks there, which we will run in this order: 
-1) Oversampling.ipynb
-2) CDI_ER_HIO.ipynb 
-3) PIE_ptycho.ipynb
+There three groups of notebooks divided in three folders: 
+1) **FourierTransforms**: it contains notebooks to play with the Fourier transforms.
+2) **Oversampling_CXDI**: it contains notebooks to understand oversampling of the speckles and play with CDI phase retrieval.
+3) **PIE_ptycho.ipynb**: it contains a notebook to understand ptychography and play with educational simulations.
 
-It is important to mention that the Python codes in notebook 1 and 2 are 
+It is important to mention that the Python codes concerning oversampling and CDI phase retrieval were
 inspired by the "Tutorial in Diffraction Imaging" by Gösta Huldt and Filipe Maia
 (originally in MATLAB), which was available until recenlty at:
 http://xray.bmc.uu.se/~ekeberg/molbiofys/tutorial.pdf 
@@ -21,7 +21,7 @@ http://xray.bmc.uu.se/~ekeberg/molbiofys/tutorial.pdf
 Modifications have been made on the original code for educational reasons and 
 Python compatibility. 
 
-The Python implementation in notebook 3 is inspired by 
+The Python implementation in the notebook concerning simulations of ptychography is inspired by 
 the MATLAB code available in the Appendix A of the Diploma thesis by 
 Dr. Martin Dierolf, which is available here: 
 https://www.psi.ch/sls/csaxs/PublicationsEN/thesis_dierolf.pdf
@@ -33,7 +33,7 @@ Throughout this tutorial, we will run some python scripts using Jupyter
 Notebook. You can either download the files from this Gitlab repository and copy them in 
 a folder of your choice or, if you prefer, you can clone it by typing:
 
-git clone https://gitlab.esrf.fr/jdasilva/tutorialptychocxdi2019.git
+git clone https://github.com/jcesardasilva/tutorialcoherence.git
 
 Once the files are in your computer, you can open Jupyter Notebook by:
 - Windows: click on the Jupyter Notebook icon installed in the start menu.
