@@ -11,7 +11,7 @@ references.
 There three groups of notebooks divided in three folders: 
 1) **FourierTransforms**: it contains notebooks to play with the Fourier transforms.
 2) **Oversampling_CXDI**: it contains notebooks to understand oversampling of the speckles and play with CDI phase retrieval.
-3) **PIE_ptycho.ipynb**: it contains a notebook to understand ptychography and play with educational simulations.
+3) **PIE**: it contains a notebook to understand ptychography and play with educational simulations.
 
 It is important to mention that the Python codes concerning oversampling and CDI phase retrieval were
 inspired by the "Tutorial in Diffraction Imaging" by Gösta Huldt and Filipe Maia
